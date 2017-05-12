@@ -1,0 +1,24 @@
+{
+  "name": "checkorange",
+  "version": "1.0.1",
+  "description": "Check Orange provider services (Fibre, ADSL, phone ...)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-env": "^1.4.0",
+    "form-data": "^2.1.4",
+    "isomorphic-fetch": "^2.2.1",
+    "yargs": "^8.0.1"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/apeyroux/checkorange.git"
+  },
+  "bin": {
+    "checkorange": "dist/src/main.js"
+  }
+}
