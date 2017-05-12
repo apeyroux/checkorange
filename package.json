@@ -1,6 +1,6 @@
 {
   "name": "checkorange",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Check Orange provider services (Fibre, ADSL, phone ...)",
   "main": "index.js",
   "scripts": {
