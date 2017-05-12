@@ -30,4 +30,3 @@ if(argv.number != undefined) {
         })
         .catch((err) => console.log(`err: ${err}`))
 }
-
